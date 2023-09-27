@@ -1,0 +1,29 @@
+/* Ajoutez des styles personnalisés ici si nécessaire */
+.container {
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Styles pour le formulaire de manière à ce qu'il soit centré */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
